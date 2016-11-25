@@ -1,4 +1,4 @@
-# AM1-20162-Proyecto--Citas-Medicas
+# AM1-20162-Proyecto-Citas Medicas
 
 Integrantes:
 
